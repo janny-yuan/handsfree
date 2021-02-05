@@ -1,4 +1,5 @@
-# HandsFree ROS 
+# HandsFree ROS  西安交大机器人平台
+
 
 ## Environment 
 we recommend that you test code on the x86 pc before transplant to TK1 or TX1/2   
