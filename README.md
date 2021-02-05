@@ -1,4 +1,4 @@
-# HandsFree ROS  西安交大机器人平台
+# HandsFree ROS  西工大机器人平台
 
 
 ## Environment 
